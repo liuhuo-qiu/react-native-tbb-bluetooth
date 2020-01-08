@@ -1,7 +1,7 @@
 {
   "name": "react-native-gm-bluetooth",
-  "version": "0.39.7",
-  "description": "react-native-gm-bluetooth",
+  "version": "0.39.8",
+  "description": "react-native-tbb-bluetooth",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,12 +16,12 @@
     "weight",
     "print"
   ],
-  "author": "",
+  "author": "youyou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gmfe/react-native-gm-bluetooth/issues"
+    "url": "https://github.com/liuhuo-qiu/react-native-tbb-bluetooth/issues"
   },
-  "homepage": "https://github.com/gmfe/react-native-gm-bluetooth#readme",
+  "homepage": "https://github.com/liuhuo-qiu/react-native-tbb-bluetooth#readme",
   "dependencies": {
     "buffer": "^4.6.0"
   },
